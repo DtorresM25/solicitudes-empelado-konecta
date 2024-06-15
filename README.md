@@ -6,7 +6,7 @@
 
 ## Correr el proyecto en IDE
 
-- correr el proyecto como aplicacion de springboot con eclipse(Spring tools 4)
+- correr el proyecto como aplicacion de springboot con eclipse(Spring tools 4) o intellij idea
 
 ## Documentacion de endpoint (swagger)
 
